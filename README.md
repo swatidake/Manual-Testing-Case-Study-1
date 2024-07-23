@@ -24,4 +24,4 @@ Test cases for the Amazon web application, focusing on signup and sign-in functi
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/amazon-web-app-testing.git
+   git clone https://github.com/swatidake/amazon-web-app-testing.git
