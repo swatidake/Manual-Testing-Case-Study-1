@@ -2,6 +2,10 @@
 
 Test cases for the Amazon web application, focusing on signup and sign-in functionalities.
 
+## Overview
+
+Comprehensive test cases to validate the functionality of the Amazon web application, specifically focusing on signup and sign-in functionalities.
+
 ## Test Scenarios
 
 ### Signup Functionality (TS 001)
