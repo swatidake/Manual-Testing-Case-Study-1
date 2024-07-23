@@ -20,8 +20,4 @@ Test cases for the Amazon web application, focusing on signup and sign-in functi
 | TC 101       | Successful sign-in        | User registered | Valid credentials         | Navigate to sign-in page > Enter credentials > Submit | User signed in, redirected to dashboard |        |
 | TC 102       | Sign-in with invalid data | User registered | Invalid credentials       | Navigate to sign-in page > Enter invalid credentials > Submit | Error message displayed               |        |
 
-## Usage
 
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/swatidake/amazon-web-app-testing.git
